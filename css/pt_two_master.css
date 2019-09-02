@@ -1,0 +1,20 @@
+body{
+  background-color: gray;
+  /* background: url(https://www.visitcornwall.com/sites/default/files/styles/cat_des_breakpoints_theme_visitcornwall2_mobile_2x/public/catagory_description/beaches%20page_0.jpg?itok=hYVzbmnh&timestamp=1450181632) */
+}
+
+div{
+  background: yellow;
+  border-color: red;
+  border-width: 10px;
+  border-style: double;
+}
+
+p{
+  color: green;
+}
+
+span{
+  background: red;
+  color: white;
+}

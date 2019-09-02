@@ -9,3 +9,16 @@ selected tag{
 h1{
   color: blue;
 }
+
+li{
+  color: rgb(31,219,100);
+}
+
+p{
+  color: #0895a8;
+}
+
+h4{
+  /* RGB alpha for alpha (0,1) fully transparent to opaque */
+  color: rgba(255,97,0,0.6);
+}
