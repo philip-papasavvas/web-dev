@@ -1,0 +1,11 @@
+/* Anything here is a comment */
+/* Some text to be commented = CTRL + / */
+/*
+basic format
+selected tag{
+  property: tag
+} */
+
+h1{
+  color: blue;
+}
